@@ -1,6 +1,6 @@
 # Sekiro Cheat Sheet
 
-To view the cheat sheet [click here](https://zkjellberg.github.io/sekiro-cheat-sheet)
+To view the cheat sheet [click here](https://eldengates.github.io/sekiro-cheat-sheet)
 
 ## Contribution Guide
 
